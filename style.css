@@ -1,0 +1,16 @@
+.content {
+    max-width: 500px;
+    margin: auto;
+    text-align: center;
+  } 
+  .center-image {
+    text-align: center;
+  }
+  .table-background {
+    background-image: url("marksheet.jpg");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    background-color: cadetblue;
+  }
